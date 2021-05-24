@@ -1,0 +1,24 @@
+{
+    "name": "lihui/php-tools",
+    "description": "php library",
+    "license": "Apache-2.0",
+    "type": "library",
+    "keywords": [
+        "php",
+        "library"
+    ],
+    "authors": [
+        {
+            "name": "辉哥",
+            "email": "lihui_1993@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lihui\\tools\\": "src/"
+        }
+    }
+}
