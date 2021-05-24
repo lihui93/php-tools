@@ -1,5 +1,5 @@
 {
-    "name": "lihui/php-tools",
+    "name": "lihui93/php-tools",
     "description": "php library",
     "license": "Apache-2.0",
     "type": "library",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lihui\\tools\\": "src/"
+            "lihui93\\tools\\": "src/"
         }
     }
 }
